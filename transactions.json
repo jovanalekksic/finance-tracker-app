@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Employment",
+      "amount": 5000,
+      "type": "income",
+      "category": "Employment",
+      "date": "2024-06-01"
+    },
+    {
+      "id": "2",
+      "description": "Groceries",
+      "amount": -150,
+      "type": "expense",
+      "category": "Groceries",
+      "date": "2024-06-02"
+    },
+    {
+      "id": "ceb8",
+      "description": "Friend sent me money",
+      "amount": "50",
+      "date": "2024-10-28T22:32:22.100Z",
+      "category": "Gifts",
+      "type": "income"
+    },
+    {
+      "id": "6710",
+      "description": "Food",
+      "amount": -120,
+      "date": "2024-10-28T22:28:23.500Z",
+      "category": "Groceries",
+      "type": "expense"
+    },
+    {
+      "id": "e190",
+      "description": "Electricity bill for September",
+      "amount": -30,
+      "date": "2024-10-06T22:00:00.000Z",
+      "category": "Education",
+      "type": "expense"
+    },
+    {
+      "id": "404d",
+      "description": "House renovation",
+      "amount": -1000,
+      "date": "2024-10-09T22:00:00.000Z",
+      "category": "Housing",
+      "type": "expense"
+    }
+  ]
+}

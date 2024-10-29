@@ -1,0 +1,17 @@
+.table {
+  margin: 2rem;
+}
+.button-actions {
+  margin-left: 5px;
+  width: 5rem;
+}
+.select-category {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.table-wrap {
+  border-top-left-radius: 50px;
+  padding-top: 20px;
+}

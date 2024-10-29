@@ -1,0 +1,14 @@
+:root {
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: black;
+  color-scheme: light dark;
+  background-color: white;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --shadow: 0px 0px 30px 8px rgba(227, 227, 227, 0.75);
+}
