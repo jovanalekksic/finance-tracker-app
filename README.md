@@ -30,13 +30,13 @@ This project is a personal finance tracking application built with React (using 
 1.  **Clone the repository**:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/jovanalekksic/finance-tracker-app
     ```
 
 2.  **Navigate to the project directory**:
 
     ```sh
-    cd finance-tracker
+    cd finance-tracker-app
     ```
 
 3.  **Install Dependencies**
